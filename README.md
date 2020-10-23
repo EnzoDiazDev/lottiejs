@@ -1,1 +1,1 @@
-Una plantilla con mi estilo y algunas dependencias.
+Una plantilla con mi estilo y algunas dependencias, pero en javascript.
